@@ -16,18 +16,19 @@
 
 This all includes searching and Sorting techniques codes. <br>
 
-Searching Techniques: <br>
+<b>Searching Techniques:  </b><br>
 1. Linear Search
 2. Binary Search
 <br>
-Sorting Techniques: <br>
-1. Bubble Sort
-2. Selection Sort
-3. Insertion Sort
-4. Merge Sort
-5. Quick Sort
-6. Heap Sort
-7. Radix Sort
-8. Shell Soort
-9. Counting Sort
+<b>Sorting Techniques: </b><br>
+1. Bubble Sort <br>
+2. Selection Sort <br>
+3. Insertion Sort <br>
+4. Merge Sort <br>
+5. Quick Sort <br>
+6. Heap Sort <br>
+7. Radix Sort <br>
+8. Shell Soort <br>
+9. Counting Sort <br>
 
+All the codes are done using C
